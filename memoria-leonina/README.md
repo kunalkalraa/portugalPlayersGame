@@ -1,5 +1,7 @@
 ![Memoria Leonina Logo](public/logo.png)
 
+ ![CLICK here TO PLAY THE GAME](https://andrevarandas.github.io/memoria-leonina/)
+
 # Memória Leonina
 
 Memória Leonina is an engaging memory game that celebrates Sporting Clube de Portugal by challenging players' memory and knowledge of the club's iconic players. Join us in the world of the lion and test your memory skills while enjoying Sporting's rich history.

@@ -1,6 +1,6 @@
 ![Memoria Leonina Logo](public/logo.png)
 
- ![CLICK here TO PLAY THE GAME](https://andrevarandas.github.io/memoria-leonina/)
+ [CLICK here TO PLAY THE GAME](https://andrevarandas.github.io/memoria-leonina/)
 
 # Memória Leonina
 
